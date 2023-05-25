@@ -1,9 +1,11 @@
 <h1 align="center">Pig Game</h1>
-
+<p align="center">Pig is a simple dice game</p>
 <h2 tabindex="-1" dir="auto">Technologies :memo:</h2>
 <p>
 <ul dir="auto">
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank">JavaScript</a></li>
+ <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow" target="_blank">HTML</a></li>
+ <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow" target="_blank">CSS</a></li>
 </ul>
 </p>
 
@@ -19,7 +21,7 @@ Pig is a simple dice game first described in print by John Scarne in 1945. Playe
 <h2 tabindex="-1" dir="auto">How to use the app :thinking:</h2>
 <ul dir="auto">
 <li>Install <a href="https://nodejs.org/en" rel="nofollow">node</a> on your computer</li>
-  <li>Install <b>live-server</b> by running <code>npm install -g live-server</code> on your terminal</li>
+  <li>Install <b>live-server</b> by running <code>npm install -g live-server</code> in your terminal</li>
 <li>cd into your app directory and run <code>live-server</code> in your terminal</li>
 </ul>
 <hr>
